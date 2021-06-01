@@ -1,0 +1,9 @@
+1. Deep blue
+- Menu bar:	34, 49, 58
+- Logo:		30, 42, 49
+- Desktop:	43, 60, 70
+- Menu text:	39, 137, 173
+- Title text:	155, 188, 209
+2. Dark
+
+3. Light
